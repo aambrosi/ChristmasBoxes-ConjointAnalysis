@@ -1,6 +1,7 @@
 # Christmas Boxes
 
 In collaboration with Bertiana Balliu, Raffaele Marchesi and Irene Parolin.
+
 Full report in the related pdf file.
 
 ## Introduction
